@@ -1,7 +1,6 @@
 # WWDC2015
-WWDC2015下载链接
 
-所有[SD](wwdc2015-sd.txt)的下载链接，所有[HD](wwdc2015-hd.txt)的下载链接，所有[PDF](wwdc2015-pdf.txt)的下载链接
+
 
 Introducing Safari View Controller:  
 &nbsp;&nbsp;&nbsp;&nbsp;SD:http://devstreaming-cdn.apple.com/videos/wwdc/2015/5048tyhotl6/504/504_sd_introducing_safari_view_controller.mp4?dl=1  
